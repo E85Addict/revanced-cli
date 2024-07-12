@@ -1,3 +1,22 @@
+# [4.6.0](https://github.com/E85Addict/revanced-cli/compare/v4.5.0...v4.6.0) (2024-07-12)
+
+
+### Bug Fixes
+
+* Copy APK to output path when it is not being signed ([366f400](https://github.com/E85Addict/revanced-cli/commit/366f400c5a46491f3f262c7ff4b0df1ae3721f74))
+* Use correct option description ([45a2ffa](https://github.com/E85Addict/revanced-cli/commit/45a2ffa2dd95ee8ac3c4d466463c9a5b869b8da1))
+
+
+### Features
+
+* Use more consistent option name ([223629c](https://github.com/E85Addict/revanced-cli/commit/223629c663dcd94d237110e09e4e152aa03867f9))
+
+
+### Performance Improvements
+
+* --rip-lib and --unsigned ([33eb461](https://github.com/E85Addict/revanced-cli/commit/33eb4611762ad7266faad98c83b6911998d69b4e))
+* Personal Sync Upstream ([6e99b17](https://github.com/E85Addict/revanced-cli/commit/6e99b17989f4c476b13f4c2371e91fa1fe07c43e))
+
 # [4.6.0](https://github.com/ReVanced/revanced-cli/compare/v4.5.0...v4.6.0) (2024-04-01)
 
 
